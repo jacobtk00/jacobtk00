@@ -1,7 +1,6 @@
 -    Hi, I’m Jacob (@jacobtk00)
 -    I'm a current Computer Science major at Virginia Tech
--    I’m interested in software development and software engineering.  
-     With a particular passion for iOS development.
+-    I’m interested in software engineering.  
 -    You can reach my by email at:
         jake00@me.com
 
